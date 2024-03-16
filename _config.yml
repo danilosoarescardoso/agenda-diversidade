@@ -1,5 +1,5 @@
-title: Cayman theme
-description: Cayman is a clean, responsive theme for GitHub Pages.
-show_downloads: true
+title: Eventos de Diversidade, Inclusão e Acessibilidade 
+description: A ideia desse site é listar os eventos de Diversidade, Inclusão e Acessibilidade que estão acontecendo no Brasil e no mundo, para facilitar a divulgação e participação.
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-cayman
