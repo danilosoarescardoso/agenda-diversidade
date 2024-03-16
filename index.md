@@ -15,3 +15,6 @@ Para adicionar novos eventos, envie um email para dsc.soares@gmail.com com detal
 |Expo Favela          | a definir               | a definir                                         | [Site oficial](https://expofavela.com.br)             |
 
 
+# EM CONSTRUÇÃO...
+
+
